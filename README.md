@@ -1,2 +1,2 @@
-# singleton_pattern
-Code that shows how singleton pattern works
+# decorator_pattern
+Code that shows how decorator pattern works
